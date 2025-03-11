@@ -1,0 +1,33 @@
+1. Introduction
+This Privacy Policy explains how MATTRAXER Bot 👑 collects, uses, and protects user data within Discord servers. By using the bot, you agree to this policy.
+
+2. Data Collected
+MATTRAXER Bot 👑 may collect and store the following data within the designated Discord server:
+
+User IDs (for tracking interactions)
+Messages and reactions (for moderation and automated actions)
+Role and permission information (to enforce server rules)
+Ban, kick, and mute actions (for moderation purposes)
+We do not collect sensitive personal data such as email addresses or passwords.
+
+3. How We Use the Data
+The collected data is used only within the specified server for the following purposes:
+
+Managing reactions and automated responses
+Moderation actions (bans, kicks, mutes)
+Enhancing the server experience with automated functionalities
+We do not share or sell this data to third parties.
+
+4. Data Storage and Security
+All data is stored securely on our system and is not accessible outside the server.
+We take measures to prevent unauthorized access to stored data.
+
+5. Data Retention and Deletion
+Data is retained as long as MATTRAXER Bot 👑 is active in the server.
+Users can request data removal by contacting the server administrator or using a bot command (if available).
+
+6. Policy Changes
+We may update this Privacy Policy at any time. Any significant changes will be announced in the server.
+
+7. Contact Information
+For any questions or data removal requests, please contact MATTRAXER64@gmail.com.

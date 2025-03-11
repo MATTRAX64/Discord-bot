@@ -1,0 +1,34 @@
+1. Acceptance of Terms
+By using MATTRAXER Bot 👑, you agree to these Terms of Service. If you do not agree with these terms, you should not use the bot.
+
+2. Usage Requirements
+To use MATTRAXER Bot 👑, you must:
+
+Follow Discord's Terms of Service: https://discord.com/terms
+Respect the rules of the server where the bot is used.
+Not use the bot for illegal or harmful activities (harassment, spam, abuse, etc.).
+
+3. Features and Limitations
+The bot provides reaction management, message tracking, and moderation (ban, kick, mute).
+The bot's availability is not guaranteed 24/7 and may be interrupted for maintenance or updates.
+The bot owner may modify or remove features at any time.
+
+4. Data Collection and Privacy
+The bot may collect user data such as messages, reactions, and moderation actions within Discord servers.
+All data usage is subject to our Privacy Policy: [Link to Privacy Policy]
+We do not sell or share user data with third parties.
+
+5. Liability
+MATTRAXER Bot 👑 is provided as is without warranties.
+The bot owner is not responsible for any damages or issues caused by using the bot.
+Users and server administrators are responsible for their actions when using the bot.
+
+6. Termination of Service
+The bot owner reserves the right to restrict or terminate access to the bot at any time for violations of these terms.
+Server owners may remove the bot from their server at any time.
+
+7. Changes to These Terms
+We may update these Terms of Service at any time. Major changes will be communicated in the server where the bot is used.
+
+8. Contact
+For any questions or concerns, contact MATTRAXER64@gmail.com.
