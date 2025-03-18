@@ -2,25 +2,27 @@ Version Bot 1.4 MATTRAXER Bot 👑
 
 Fonctionalité :
 
-!aide (Voir Commandes sur github) ❓
+/aide (Voir Commandes sur github) ❓
 
-!xp (Voir Niveau et Experience)
-!xp_role @role Lv (Role obtenable avec niveau) 👑
-!xp_delrole (Role Niveau Suprime)
+/xp (Voir Niveau et Experience)
+/xp_role @role Lv (Role obtenable avec niveau) 👑
+/xp_delrole (Role Niveau Suprime)
 
-!lien (Ex: !lien https://site/  va autoriser ces liens)😉
-!delien (les liens retirés)
+/lien (Ex: !lien https://site/  va autoriser ces liens)😉
+/delien (les liens retirés)
 
-!pileface (lancer de pièce 1/2 chance)
-!de (lancer de dé 1/6 chance)
+/pileface (lancer de pièce 1/2 chance)
+/de (lancer de dé 1/6 chance)
 
-!giveaway @role (lancer un concour de role)
-!fingiveaway (fermé le concour et donne le role)
-!participer (participer au concour)
+/giveaway @role (lancer un concour de role)
+/fingiveaway (fermé le concour et donne le role)
+/participer (participer au concour)
 
 Anti mauvais mots 😊
 Anti spam 😃
 
 création de vocal automatic
-!metvocal [identifiant catégorie] (crée un vocal par défaut)
-!supvocal (suprime tout les vocal spécial)
+/metvocal [identifiant catégorie] (crée un vocal par défaut)
+/supvocal (suprime tout les vocal spécial)
+
+Affiche en marquand / toutes les commande sur le serveur
