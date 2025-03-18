@@ -1,4 +1,4 @@
-Version Bot 1.3 MATTRAXER Bot 👑
+Version Bot 1.4 MATTRAXER Bot 👑
 
 Fonctionalité :
 
@@ -11,5 +11,11 @@ Fonctionalité :
 !lien (Ex: !lien https://site/  va autoriser ces liens)😉
 !delien (les liens retirés)
 
+!pileface (lancer de pièce 1/2 chance)
+!de (lancer de dé 1/6 chance)
+
+!giveaway @role (lancer un concour de role)
+!fingiveaway (fermé le concour et donne le role)
+!participer (participer au concour)
 Anti mauvais mots 😊
 Anti spam 😃
