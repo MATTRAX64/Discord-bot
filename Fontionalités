@@ -20,3 +20,7 @@ Fonctionalité :
 
 Anti mauvais mots 😊
 Anti spam 😃
+
+création de vocal automatic
+!metvocal [identifiant catégorie] (crée un vocal par défaut)
+!supvocal (suprime tout les vocal spécial)
