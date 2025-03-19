@@ -14,7 +14,7 @@ Fonctionalité :
 /pileface (lancer de pièce 1/2 chance)
 /de (lancer de dé 1/6 chance)
 
-/giveaway @role (lancer un concour de role)
+/giveaway @role (lancer un concour de role) [ Prend tout les role inferieur ]
 /fingiveaway (fermé le concour et donne le role)
 /participer (participer au concour)
 
