@@ -4,7 +4,8 @@ Comment l'installer :
 - Administrateur (pour les nouvelle fonctionalité)
 - Role haut dessus des membres (pour le contrôle)
 - Qu'il est accès au salon et catégories
-- Comme paramèttre a besoin [ Utilise les commandes de l'application ] (sur role / salon / catégories)
+- Comme paramèttre il a besoin [ Utilise les commandes de l'application ] (sur role / salon / catégories)
+- les membres auront aussi besoin du roles [ Utilise les commandes de l'application ]
 
 Fonctionalité :
 
