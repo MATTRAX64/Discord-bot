@@ -1,35 +1,67 @@
-Version Bot 1.4 MATTRAXER Bot 👑
 
-Comment l'installer :
-- Administrateur (pour les nouvelle fonctionalité)
-- Role haut dessus des membres (pour le contrôle)
-- Qu'il est accès au salon et catégories
-- Comme paramèttre il a besoin [ Utilise les commandes de l'application ] (sur role / salon / catégories)
-- les membres auront aussi besoin du roles [ Utilise les commandes de l'application ]
+  
+🟦 Version Bot 1.5 MATTRAXER Bot 👑 🟦
 
-Fonctionalité :
 
-/aide (Voir Commandes sur github) ❓
+🟩 Essenciel :
+  - Rajoutera de la protection a votre serveur discord 🛡️
+  - Rajoutera des Commandes de protection ou utile 🫡
+🟩
 
-/xp (Voir Niveau et Experience)
-/xp_role @role Lv (Role obtenable avec niveau) 👑
-/xp_delrole (Role Niveau Suprime)
 
-/lien (Ex: !lien https://site/  va autoriser ces liens)😉
-/delien (les liens retirés)
+  [ L'instalation : ⬇️ ]
 
-/pileface (lancer de pièce 1/2 chance)
-/de (lancer de dé 1/6 chance)
+🟧 Respecter ces règles suivante 🫡 :
+  - Role Administrateur 👑
+  - Role supérieur aux membres 😎
+  - Accès aux [ vocal🎙️, catégorie 📁 , salon 💬 ] 👀
+  - Avec les roles [ Utilise les commandes de l'application ⚙️ , Voir le salon 👁️ ]
+🟧
 
-/giveaway @role (lancer un concour de role) [ Prend tout les role inferieur ]
-/fingiveaway (fermé le concour et donne le role)
-/participer (participer au concour)
 
-Anti mauvais mots 😊
-Anti spam 😃
+  [ Commandes : 🧐 ]
 
-création de vocal automatic
-/metvocal [identifiant catégorie] (crée un vocal par défaut)
-/supvocal (suprime tout les vocal spécial)
+🟨 Les commandes ⚙️
+  - [/] Affiche les commande disponible du serveur !
+  - /aide (Voir Commandes sur github) ❓
+🟨
 
-Affiche en marquand / toutes les commande sur le serveur
+
+🟨 Les niveau / experience ⚡
+  - /xp (Voir Niveau et Experience)
+  - /xp_role @role Lv (Role obtenable avec niveau) 👑
+  - /xp_derole (Tout les role de niveau suprime) ‼️
+🟨
+
+
+🟨 Autorisation des liens 🛜
+  - /lien Ex: "/lien https://site/...."  (Autorise ces debut de liens)😉
+  - /delien (Tout les liens retirés) ‼️
+🟨
+
+
+🟨 Donation de rôle 😎
+  - /giveaway @role (Lancer un concour de role)❗role inferieur au bot❗
+  - /fingiveaway (Fermé le concour et donne le role)
+  - /participer (Participer au concour)
+🟨
+
+
+🟨 Création de vocal automatic 🤪🎤
+  - /metvocal Ex: "/metvocal [ID catégorie]" (Vocal par défaut sur la catégorie)
+  - /devocal (Suprime tout les vocal spécial) ‼️
+🟨
+
+
+🟨 Mini jeux 🤩
+  - /pileface (Lancer de pièce 1/2 chance)
+  - /de (Lancer de dé 1/6 chance)
+🟨
+
+  [ Protection : 🛡️ ]
+
+🟥
+  - Anti mauvais mots 😊
+  - Anti spam 😃
+  - Anti mauvais liens 🫡
+🟥
