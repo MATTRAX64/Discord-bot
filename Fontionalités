@@ -35,7 +35,7 @@
 
 
 🟨 Autorisation des liens 🛜
-  - /lien Ex: "/lien https://site/...."  (Autorise ces debut de liens)😉
+  - /lien  Ex: "/lien https://site/...."  (Autorise ces debut de liens)😉
   - /delien (Tout les liens retirés) ‼️
 🟨
 
@@ -48,8 +48,26 @@
 
 
 🟨 Création de vocal automatic 🤪🎤
-  - /vocal Ex: "/metvocal [ID catégorie]" (Vocal par défaut sur la catégorie)
+  - /vocal  Ex: "/metvocal [ID catégorie]" (Vocal par défaut sur la catégorie)
   - /devocal (Suprime tout les vocal spécial) ‼️
+🟨
+
+
+🟨 Role quand nouveau membre 😀
+  - /joinrole @role (Ajoutera le role au nouveau membre) 
+🟨
+
+
+🟨 Création de vocal automatic 🤪🎤
+  - /message_salon  Ex: "/message_salon [ID salon] ou selectioner" (Va ecrire dans ce salon)
+  - /message_desalon (Suprime la configuration) ‼️
+  - /message_arriver Text (Met le texte si membre Arrive)
+  - /message_aurevoir Text (Met le texte si membre Part)
+🟨
+
+
+🟨 Suprimes des messages 🗑️
+  - /nettoyer Ex: "/nettoyer 14" (25 messages max)
 🟨
 
 
