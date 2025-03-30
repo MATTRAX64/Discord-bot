@@ -1,6 +1,6 @@
 
   
-🟦 Version Bot 1.5 MATTRAXER Bot 👑 🟦
+🟦 Version Bot 1.6 MATTRAXER Bot 👑 🟦
 
 
 🟩 Essenciel :
@@ -58,7 +58,7 @@
 🟨
 
 
-🟨 Création de vocal automatic 🤪🎤
+🟨 message d'arriver et de sortie 📩
   - /message_salon  Ex: "/message_salon [ID salon] ou selectioner" (Va ecrire dans ce salon)
   - /message_desalon (Suprime la configuration) ‼️
   - /message_arriver Text (Met le texte si membre Arrive)
