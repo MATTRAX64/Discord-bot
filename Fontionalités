@@ -1,6 +1,6 @@
 
   
-🟦 Version Bot 1.6 MATTRAXER Bot 👑 🟦
+🟦 Version Bot 1.7 MATTRAXER Bot 👑 🟦
 
 
 🟩 Essenciel :
@@ -48,32 +48,44 @@
 
 
 🟨 Création de vocal automatic 🤪🎤
-  - /vocal  Ex: "/metvocal [ID catégorie]" (Vocal par défaut sur la catégorie)
+  - /vocal  Ex: "/metvocal [ID catégorie]" (Vocal par défaut sur la catégorie) 🎙️
   - /devocal (Suprime tout les vocal spécial) ‼️
 🟨
 
 
 🟨 Role quand nouveau membre 😀
-  - /joinrole @role (Ajoutera le role au nouveau membre) 
+  - /joinrole @role (Ajoutera le role au nouveau membre) 🙂
+  - /dejoinrole (Suprime le paramètre) ‼️
 🟨
 
 
-🟨 message d'arriver et de sortie 📩
-  - /message_salon  Ex: "/message_salon [ID salon] ou selectioner" (Va ecrire dans ce salon)
+🟨 Message d'arriver et de sortie 📩
+  - /message_salon  Ex: "/message_salon [ID salon] ou selectioner" (Va ecrire dans ce salon) 📩
   - /message_desalon (Suprime la configuration) ‼️
-  - /message_arriver Text (Met le texte si membre Arrive)
-  - /message_aurevoir Text (Met le texte si membre Part)
+  - /message_arriver Text (Met le texte si membre Arrive) 😎
+  - /message_aurevoir Text (Met le texte si membre Part) 😫
+🟨
+
+🟨 Statistique salon 📊
+  - /stats_membres [salon] (Met le nombre de membres sur le salon) 🙋
+  - /stats_bots [salon] (Met le nombre de bots sur le salon) 🤖
+  - /destats (Désctive les statistique)‼️
+🟨
+
+🟨 Statistique salon 📊
+  - /reaction_role @role [id_salon] (Rajoute une réaction qui donne un rôle) 🙋
+  - /dereaction_role (Suprime la configuration) ‼️
 🟨
 
 
 🟨 Suprimes des messages 🗑️
-  - /nettoyer Ex: "/nettoyer 14" (25 messages max)
+  - /nettoyer Ex: "/nettoyer 14" (25 messages max) 🧹
 🟨
 
 
 🟨 Mini jeux 🤩
-  - /pileface (Lancer de pièce 1/2 chance)
-  - /de (Lancer de dé 1/6 chance)
+  - /pileface (Lancer de pièce 1/2 chance) 🪙
+  - /de (Lancer de dé 1/6 chance) 🎲
 🟨
 
 
