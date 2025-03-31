@@ -66,13 +66,15 @@
   - /message_aurevoir Text (Met le texte si membre Part) 😫
 🟨
 
+
 🟨 Statistique salon 📊
   - /stats_membres [salon] (Met le nombre de membres sur le salon) 🙋
   - /stats_bots [salon] (Met le nombre de bots sur le salon) 🤖
   - /destats (Désctive les statistique)‼️
 🟨
 
-🟨 Statistique salon 📊
+
+🟨 Réaction de rôle 🙂
   - /reaction_role @role [id_salon] (Rajoute une réaction qui donne un rôle) 🙋
   - /dereaction_role (Suprime la configuration) ‼️
 🟨
